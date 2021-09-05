@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1630841228,
+	"version": 1630845719,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -21,6 +21,9 @@
 		"images/btn-sheet0.png",
 		"images/btn-sheet1.png",
 		"images/menu-sheet0.png",
+		"images/menu-sheet1.png",
+		"images/menu-sheet2.png",
+		"images/minimap-sheet0.png",
 		"media/sweet talks – limujii (no copyright music).m4a",
 		"media/sweet talks – limujii (no copyright music).ogg",
 		"icon-16.png",
