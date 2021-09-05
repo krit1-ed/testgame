@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1630838475,
+	"version": 1630841228,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -17,6 +17,12 @@
 		"images/knife-sheet1.png",
 		"images/gamepad2-sheet0.png",
 		"images/gamepad2-sheet1.png",
+		"images/bgoption-sheet0.png",
+		"images/btn-sheet0.png",
+		"images/btn-sheet1.png",
+		"images/menu-sheet0.png",
+		"media/sweet talks – limujii (no copyright music).m4a",
+		"media/sweet talks – limujii (no copyright music).ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
